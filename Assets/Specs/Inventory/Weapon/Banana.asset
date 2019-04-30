@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fff8714c36df09428ac129ebec06269, type: 3}
+  m_Name: Banana
+  m_EditorClassIdentifier: 
+  NameEN: Banana
+  NameES: "Pl\xE1tano"
+  NameRU: "\u0411\u0430\u043D\u0430\u043D"
+  Icon: {fileID: 21300000, guid: b0e0b78336d595040b8a82a7d337faaa, type: 3}
+  IconPreviewBrightness: 1
+  IconPreviewOffset: {x: 0, y: 0, z: -0.9}
+  IconPreviewAngles: {x: 0, y: 0, z: 20}
+  IconPreviewPosition: {x: 0.01, y: -0.115, z: 0}
+  IconPreviewRotation: {x: -105, y: 0, z: 0}
+  IconPreviewScale: {x: 1, y: 1, z: 1}
+  Weapon: 19
+  Special: 0
+  SpecialProbability: 0
+  BaseDamage: 1
+  Damage: 050000000800000009000000
+  BaseCritProbability: 3
+  CritProbability: 040000000400000006000000
+  UpgradeCost: 140000003200000064000000
+  SpecialUpgradeCost: 280000006400000096000000

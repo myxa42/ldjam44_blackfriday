@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fff8714c36df09428ac129ebec06269, type: 3}
+  m_Name: Screwdriver
+  m_EditorClassIdentifier: 
+  NameEN: Screwdriver
+  NameES: Destornillador
+  NameRU: "\u041E\u0442\u0432\u0451\u0440\u0442\u043A\u0430"
+  Icon: {fileID: 21300000, guid: 1035dbbb96764944dac32ee8eeea815f, type: 3}
+  IconPreviewBrightness: 1
+  IconPreviewOffset: {x: 0, y: 0, z: -1.1}
+  IconPreviewAngles: {x: 0, y: 0, z: 45}
+  IconPreviewPosition: {x: 0.1, y: 0, z: 0}
+  IconPreviewRotation: {x: -75, y: 0, z: 0}
+  IconPreviewScale: {x: 0.8, y: 1, z: 1}
+  Weapon: 12
+  Special: 0
+  SpecialProbability: 0
+  BaseDamage: 10
+  Damage: 32000000500000005a000000
+  BaseCritProbability: 9
+  CritProbability: 0b0000000d00000011000000
+  UpgradeCost: 6400000096000000c8000000
+  SpecialUpgradeCost: 96000000c8000000fa000000

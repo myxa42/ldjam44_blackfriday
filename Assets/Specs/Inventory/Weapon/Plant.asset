@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fff8714c36df09428ac129ebec06269, type: 3}
+  m_Name: Plant
+  m_EditorClassIdentifier: 
+  NameEN: Plant
+  NameES: Planta
+  NameRU: "\u0420\u0430\u0441\u0442\u0435\u043D\u0438\u0435"
+  Icon: {fileID: 21300000, guid: 3223ba16f28c72e479237c1d8d1574f8, type: 3}
+  IconPreviewBrightness: 2
+  IconPreviewOffset: {x: 0, y: 0, z: -1.4}
+  IconPreviewAngles: {x: 0, y: 0, z: 45}
+  IconPreviewPosition: {x: 0.23, y: 0, z: 0}
+  IconPreviewRotation: {x: -25, y: 0, z: 0}
+  IconPreviewScale: {x: 0.6, y: 1, z: 1}
+  Weapon: 22
+  Special: 4
+  SpecialProbability: 5
+  BaseDamage: 7
+  Damage: 23000000380000003f000000
+  BaseCritProbability: 6
+  CritProbability: 07000000090000000b000000
+  UpgradeCost: 140000003200000064000000
+  SpecialUpgradeCost: 280000006400000096000000

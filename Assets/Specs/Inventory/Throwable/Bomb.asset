@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf2f1f65cdf43e948b2b0824c51dc736, type: 3}
+  m_Name: Bomb
+  m_EditorClassIdentifier: 
+  NameEN: Bomb
+  NameES: Bomba
+  NameRU: "\u0411\u043E\u043C\u0431\u0430"
+  Icon: {fileID: 21300000, guid: a4800dcb60b464f4087d84c2f41f7338, type: 3}
+  ShopMoneyCost: 15
+  ShopHealthCost: 0
+  IconPreviewBrightness: 1
+  IconPreviewOffset: {x: 0, y: 0, z: -0.21}
+  IconPreviewAngles: {x: 0, y: 0, z: 45}
+  IconPreviewPosition: {x: 0.007, y: -0.007, z: 0}
+  IconPreviewRotation: {x: 0, y: 0, z: 20}
+  IconPreviewScale: {x: 1, y: 1, z: 1}
+  Throwable: 17
+  Damage: 15
+  CritProbability: 20

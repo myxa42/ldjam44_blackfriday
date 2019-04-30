@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fff8714c36df09428ac129ebec06269, type: 3}
+  m_Name: Guitar
+  m_EditorClassIdentifier: 
+  NameEN: Guitar
+  NameES: Guitarra
+  NameRU: "\u0413\u0438\u0442\u0430\u0440\u0430"
+  Icon: {fileID: 21300000, guid: 3124b4ab5804b454db7d4ae96f7170fd, type: 3}
+  IconPreviewBrightness: 1
+  IconPreviewOffset: {x: 0, y: 0, z: -1.6}
+  IconPreviewAngles: {x: 0, y: 0, z: -135}
+  IconPreviewPosition: {x: 0.15, y: 0, z: 0}
+  IconPreviewRotation: {x: -145, y: 0, z: 0}
+  IconPreviewScale: {x: 0.7, y: 1.3, z: 1.3}
+  Weapon: 16
+  Special: 0
+  SpecialProbability: 0
+  BaseDamage: 17
+  Damage: 550000008800000099000000
+  BaseCritProbability: 10
+  CritProbability: 0c0000000f00000013000000
+  UpgradeCost: 6400000096000000c8000000
+  SpecialUpgradeCost: 96000000c8000000fa000000

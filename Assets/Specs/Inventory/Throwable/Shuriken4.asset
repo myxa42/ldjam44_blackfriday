@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf2f1f65cdf43e948b2b0824c51dc736, type: 3}
+  m_Name: Shuriken4
+  m_EditorClassIdentifier: 
+  NameEN: Shuriken
+  NameES: Shuriken
+  NameRU: "\u0421\u044E\u0440\u0438\u043A\u044D\u043D"
+  Icon: {fileID: 21300000, guid: c20416cb94677ee45bdc5a4af34ea6b7, type: 3}
+  ShopMoneyCost: 6
+  ShopHealthCost: 0
+  IconPreviewBrightness: 1.4
+  IconPreviewOffset: {x: 0, y: 0, z: -0.235}
+  IconPreviewAngles: {x: 0, y: 0, z: 80}
+  IconPreviewPosition: {x: 0, y: 0, z: 0}
+  IconPreviewRotation: {x: 0, y: 0, z: 0}
+  IconPreviewScale: {x: 1, y: 1, z: 1}
+  Throwable: 14
+  Damage: 6
+  CritProbability: 30

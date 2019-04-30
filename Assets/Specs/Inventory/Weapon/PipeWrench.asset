@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fff8714c36df09428ac129ebec06269, type: 3}
+  m_Name: PipeWrench
+  m_EditorClassIdentifier: 
+  NameEN: Pipe Wrench
+  NameES: Llave de Tubo
+  NameRU: "\u0422\u0440\u0443\u0431\u043D\u044B\u0439 \u041A\u043B\u044E\u0447"
+  Icon: {fileID: 21300000, guid: 99b38315d9688b146ab9189f54e76c1d, type: 3}
+  IconPreviewBrightness: 0.6
+  IconPreviewOffset: {x: 0, y: 0, z: -1.7}
+  IconPreviewAngles: {x: 0, y: 0, z: 45}
+  IconPreviewPosition: {x: 0.05, y: 0, z: 0}
+  IconPreviewRotation: {x: -75, y: 0, z: 0}
+  IconPreviewScale: {x: 0.7, y: 1, z: 1}
+  Weapon: 10
+  Special: 0
+  SpecialProbability: 0
+  BaseDamage: 18
+  Damage: 5a00000090000000a2000000
+  BaseCritProbability: 10
+  CritProbability: 0c0000000f00000013000000
+  UpgradeCost: 6400000096000000c8000000
+  SpecialUpgradeCost: 96000000c8000000fa000000

@@ -1,0 +1,13 @@
+/.idea
+/.vs
+/.gradle
+/Assets/Plugins/Editor/JetBrains*
+/Assets/Plugins/Editor.meta
+/[Bb]uild
+/[Ll]ibrary
+/[Ll]ogs
+/[Tt]emp
+/obj
+/*.sln
+/*.csproj
+.DS_Store

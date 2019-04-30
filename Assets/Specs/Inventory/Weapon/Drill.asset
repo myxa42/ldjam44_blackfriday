@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fff8714c36df09428ac129ebec06269, type: 3}
+  m_Name: Drill
+  m_EditorClassIdentifier: 
+  NameEN: Nail Gun
+  NameES: Pistola de Clavos
+  NameRU: "\u041D\u0435\u0439\u043B\u0435\u0440"
+  Icon: {fileID: 21300000, guid: 1317c54722e566a4fa45321d32fbb6d2, type: 3}
+  ShopMoneyCost: 0
+  ShopHealthCost: 250
+  IconPreviewBrightness: 0
+  IconPreviewOffset: {x: 0, y: 0, z: -1.3}
+  IconPreviewAngles: {x: 0, y: 0, z: 45}
+  IconPreviewPosition: {x: -0.1, y: -0.05, z: 0}
+  IconPreviewRotation: {x: -115, y: 0, z: 0}
+  IconPreviewScale: {x: 1, y: 1, z: 1}
+  Weapon: 27
+  Special: 1
+  SpecialProbability: 10
+  BaseDamage: 22
+  Damage: 6e000000b0000000c6000000
+  BaseCritProbability: 28
+  CritProbability: 220000002900000034000000
+  UpgradeCost: c80000002c010000f4010000
+  SpecialUpgradeCost: f401000058020000e8030000

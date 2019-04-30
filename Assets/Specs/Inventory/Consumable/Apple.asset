@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3977d04716fb984186d47d4bae45883, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier: 
+  NameEN: Apple
+  NameES: Manzana
+  NameRU: "\u042F\u0431\u043B\u043E\u043A\u043E"
+  Icon: {fileID: 21300000, guid: 33d7fd609cdc64648b47f7ded9f1b72a, type: 3}
+  ShopMoneyCost: 4
+  ShopHealthCost: 0
+  IconPreviewBrightness: 1
+  IconPreviewOffset: {x: 0.012, y: -0.021, z: -0.22}
+  IconPreviewAngles: {x: 0, y: 0, z: 0}
+  IconPreviewPosition: {x: 0, y: 0, z: 0}
+  IconPreviewRotation: {x: -40, y: 10, z: 0}
+  IconPreviewScale: {x: 1, y: 1, z: 1}
+  Consumable: 8
+  HealthBonusPercent: 2
